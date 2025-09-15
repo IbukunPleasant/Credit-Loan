@@ -44,15 +44,15 @@ This Tableau dashboard presents a structured view of credit loan performance. Ke
 
 # Visual Elements
 
-📌 KPI Indicators (Cards) – Track Total Loan Amount ($15M), Total Amount Due ($15.9M), Number of Loans (7,937), and Average Interest Rate (5.92%).
+📌 KPI Indicators (Cards) – Track Total Loan Amount ($15M), Total Amount Due ($15.9M), Number of Loans (7,937), and Average Interest Rate ($5.92).
 
 🗺️ Loan Amount by State (Map Chart) – Geographic distribution of loan disbursements, highlighting top states such as California, Texas, and Florida.
 
-📊 Average Amount Due by Segment (Bar & Gantt Chart) – Compare outstanding dues across customer categories: Business, Home Office, Commercial, Personal Loans, etc.
+📊 Average Amount Due by Segment (Bar in Gantt Chart) – Compare outstanding dues across customer categories: Business, Home Office, Commercial, Personal Loans, etc.
 
 ⏳ Days Overdue Distribution (Bar Chart) – Break down overdue loans into time buckets (0–15, 16–30, …, 90+ days) to track repayment trends.
 
-📈 Loan Term Distribution (Area & Bar Chart) – Visualize loan durations across short-term (1–10 years), medium-term (11–20 years), and long-term (21–30 years).
+📈 Loan Term Distribution (Area in Bar Chart) – Visualize loan durations across short-term (1–10 years), medium-term (11–20 years), and long-term (21–30 years).
 
 🌍 Amount Due by State (Map Chart) – Show geographic spread of outstanding dues, spotlighting high-risk states with larger balances.
 
