@@ -4,7 +4,7 @@ An end-to-end analytics project built to track and visualize credit loan perform
 
 This dashboard enables stakeholders to:
 
-•	Track key metrics which includes; Total loan amounts, Amounts due, Number of loans, and Average interest rates.
+•	Track key metrics which includes; Total loan amounts, Total amounts due, Number of loans, and Average interest rates.
 
 •	Analyze loan performance trends across states and customer segments.
 
