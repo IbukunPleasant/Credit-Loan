@@ -22,11 +22,11 @@ This dashboard enables stakeholders to:
 
 # Data Cleaning Process (MS Excel)
 
-• Extracted and cleaned customer location data, converting messy full address fields into a clear Country-level field for better geographic insights.
+• Extracted and cleaned customer location data, converting messy full address fields into a clear "Country" field for better geographic insights.
 
 •	Standardized dates to ensure consistency for trend and time-based analysis.
 
-•	Ensure all values aligned with the required formats for analysis.
+•	Ensured all values aligned with the required formats for analysis.
 
 # Dashboard Highlights
 
@@ -48,9 +48,9 @@ This Tableau dashboard presents a structured view of credit loan performance. Ke
 
 🗺️ Loan Amount by State (Map Chart) – Geographic distribution of loan disbursements, highlighting top states such as California, Texas, and Florida.
 
-📊 Average Amount Due by Segment (Bar in Gantt Chart) – Compare outstanding dues across customer categories: Business, Home Office, Commercial, Personal Loans, etc.
+📊 Average Amount Due by Segment (Bar in Gantt Chart) – Compare outstanding dues across customer segments: Business, Home Office, Commercial, Personal Loans, etc.
 
-⏳ Days Overdue Distribution (Bar Chart) – Break down overdue loans into time buckets (0–15, 16–30, …, 90+ days) to track repayment trends.
+⏳ Days Overdue Distribution (Bar Chart) – Break down overdue loans into count of days (0–15, 16–30,31–45, 46–60, 61–75, 76–90, and 90+ days) to track repayment trends.
 
 📈 Loan Term Distribution (Area in Bar Chart) – Visualize loan durations across short-term (1–10 years), medium-term (11–20 years), and long-term (21–30 years).
 
