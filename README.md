@@ -34,13 +34,13 @@ This Tableau dashboard presents a structured view of credit loan performance. Ke
 
 •	KPI Indicators:
 
-	Total Loan Amount
+	Total Loan Amount.
 
-	Total Amount Due
+	Total Amount Due.
 
-	Number of Loans
+	Number of Loans.
 
-	Average Interest Rate
+	Average Interest Rate.
 
 # Visual Elements
 
