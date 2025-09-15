@@ -56,6 +56,10 @@ This Tableau dashboard presents a structured view of credit loan performance. Ke
 
 🌍 Amount Due by State (Map Chart) – Show geographic spread of outstanding dues, spotlighting high-risk states with larger balances.
 
+# Dashboard Preview
+
+<img width="599" height="376" alt="CREDIT LOAN DASHBOARD" src="https://github.com/user-attachments/assets/fba656db-e939-4fab-b625-e3540b0cdf46" />
+
 
 
 
