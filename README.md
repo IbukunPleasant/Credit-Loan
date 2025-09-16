@@ -2,7 +2,7 @@
 
 An end-to-end analytics project built to track and visualize credit loan performance across 7,900+ transactions, leveraging MS Excel for data cleaning and Tableau for an interactive dashboard that shows key insights on loan amounts, overdue trends, and customer segments.
 
-# Project Objectives.
+# Project Focus
 
 This dashboard enables stakeholders to:
 
