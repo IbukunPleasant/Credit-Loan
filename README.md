@@ -2,6 +2,13 @@
 
 An end-to-end analytics project built to track and visualize credit loan performance across 7,900+ transactions, leveraging MS Excel for data cleaning and Tableau for an interactive dashboard that shows key insights on loan amounts, overdue trends, and customer segments.
 
+
+# Dashboard Preview
+
+<img width="599" height="376" alt="CREDIT LOAN DASHBOARD" src="https://github.com/user-attachments/assets/fba656db-e939-4fab-b625-e3540b0cdf46" />
+
+# Project Objectives.
+
 This dashboard enables stakeholders to:
 
 •	Track key metrics which includes; Total loan amounts, Total amounts due, Number of loans, and Average interest rates.
@@ -12,9 +19,19 @@ This dashboard enables stakeholders to:
 
 •	Assess loan term distributions to understand customer borrowing patterns and preferences.
 
-# Dashboard Preview
+# Dashboard Highlights
 
-<img width="599" height="376" alt="CREDIT LOAN DASHBOARD" src="https://github.com/user-attachments/assets/fba656db-e939-4fab-b625-e3540b0cdf46" />
+This Tableau dashboard presents a structured view of credit loan performance.
+
+•	**KPI Indicators**:
+
+**Total Loan Amount**-$15M 
+
+**Total Amount Due**-$15.9M
+
+**Number of Loans**-7,937
+
+**Average Interest Rate**-$5.92
 
 
 # Tools Used
@@ -33,19 +50,6 @@ This dashboard enables stakeholders to:
 
 •	Ensured all values aligned with the required formats for analysis.
 
-# Dashboard Highlights
-
-This Tableau dashboard presents a structured view of credit loan performance.
-
-•	**KPI Indicators**:
-
-**Total Loan Amount**
-
-**Total Amount Due**
-
-**Number of Loans**
-
-**Average Interest Rate**
 
 # Visual Elements
 
