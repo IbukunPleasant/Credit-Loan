@@ -2,11 +2,6 @@
 
 An end-to-end analytics project built to track and visualize credit loan performance across 7,900+ transactions, leveraging MS Excel for data cleaning and Tableau for an interactive dashboard that shows key insights on loan amounts, overdue trends, and customer segments.
 
-
-# Dashboard Preview
-
-<img width="599" height="376" alt="CREDIT LOAN DASHBOARD" src="https://github.com/user-attachments/assets/fba656db-e939-4fab-b625-e3540b0cdf46" />
-
 # Project Objectives.
 
 This dashboard enables stakeholders to:
@@ -18,6 +13,11 @@ This dashboard enables stakeholders to:
 •	Monitor overdue loans by count of days (0–15, 16–30, 31–45, 46–60, 61–75, 76–90, and 90+ days).
 
 •	Assess loan term distributions to understand customer borrowing patterns and preferences.
+
+# Dashboard Preview
+
+<img width="599" height="376" alt="CREDIT LOAN DASHBOARD" src="https://github.com/user-attachments/assets/fba656db-e939-4fab-b625-e3540b0cdf46" />
+
 
 # Dashboard Highlights
 
