@@ -12,13 +12,18 @@ This dashboard enables stakeholders to:
 
 •	Assess loan term distributions to understand customer borrowing patterns and preferences.
 
+# Dashboard Preview
+
+<img width="599" height="376" alt="CREDIT LOAN DASHBOARD" src="https://github.com/user-attachments/assets/fba656db-e939-4fab-b625-e3540b0cdf46" />
+
+
 # Tools Used
 
-•	Microsoft Excel – Initial data cleaning and transformation.
+•	**Microsoft Excel** – Initial data cleaning and transformation.
 
-•	Tableau– Interactive visualizations.
+•	**Tableau**– Interactive visualizations.
 
-•	GitHub – Version control and documentation.
+•	**GitHub** – Version control and documentation.
 
 # Data Cleaning Process (MS Excel)
 
@@ -30,37 +35,31 @@ This dashboard enables stakeholders to:
 
 # Dashboard Highlights
 
-This Tableau dashboard presents a structured view of credit loan performance. Key sections include:
+This Tableau dashboard presents a structured view of credit loan performance.
 
-•	KPI Indicators:
+•	**KPI Indicators**:
 
-	Total Loan Amount.
+**Total Loan Amount**
 
-	Total Amount Due.
+**Total Amount Due**
 
-	Number of Loans.
+**Number of Loans**
 
-	Average Interest Rate.
+**Average Interest Rate**
 
 # Visual Elements
 
-📌 KPI Indicators (Cards) – Track Total Loan Amount ($15M), Total Amount Due ($15.9M), Number of Loans (7,937), and Average Interest Rate ($5.92).
+**KPI Indicators (Cards)**: Track Total Loan Amount ($15M), Total Amount Due ($15.9M), Number of Loans (7,937), and Average Interest Rate ($5.92).
 
-🗺️ Loan Amount by State (Map Chart) – Geographic distribution of loan disbursements, highlighting top states such as California, Texas, and Florida.
+**Loan Amount by State (Map Chart)**: Geographic distribution of loan disbursements, highlighting top states such as California, Texas, and Florida.
 
-📊 Average Amount Due by Segment (Bar in Gantt Chart) – Compare outstanding dues across customer segments: Business, Home Office, Commercial, Personal Loans, etc.
+**Average Amount Due by Segment (Bar in Gantt Chart)**: Compare outstanding dues across customer segments: Business, Home Office, Commercial, Personal Loans, etc.
 
-⏳ Days Overdue Distribution (Bar Chart) – Break down overdue loans into count of days (0–15, 16–30,31–45, 46–60, 61–75, 76–90, and 90+ days) to track repayment trends.
+**Days Overdue Distribution (Bar Chart)**: Break down overdue loans into count of days (0–15, 16–30,31–45, 46–60, 61–75, 76–90, and 90+ days) to track repayment trends.
 
-📈 Loan Term Distribution (Area in Bar Chart) – Visualize loan durations across short-term (1–10 years), medium-term (11–20 years), and long-term (21–30 years).
+**Loan Term Distribution (Area in Bar Chart)**: Visualize loan durations across short-term (1–10 years), medium-term (11–20 years), and long-term (21–30 years).
 
-🌍 Amount Due by State (Map Chart) – Show geographic spread of outstanding dues, spotlighting high-risk states with larger balances.
-
-# Dashboard Preview
-
-<img width="599" height="376" alt="CREDIT LOAN DASHBOARD" src="https://github.com/user-attachments/assets/fba656db-e939-4fab-b625-e3540b0cdf46" />
-
-
+**Amount Due by State (Map Chart)**: Show geographic spread of outstanding dues, spotlighting high-risk states with larger balances.
 
 
 
